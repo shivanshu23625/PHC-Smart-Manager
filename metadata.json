@@ -1,0 +1,10 @@
+{
+  "name": "Remix: PHC Smart Manager",
+  "description": "An advanced medical logistics and personnel tracking platform for rural health centers, featuring real-time state synchronization and Gemini-powered daily report parsing.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
