@@ -88,7 +88,7 @@ PHC-Smart-Manager/
 
 ```bash
 # Clone the repository
-git clone https://github.com/samikshakalra02/PHC-Smart-Manager.git
+git clone https://github.com/shivanshu23625/PHC-Smart-Manager.git
 cd PHC-Smart-Manager
 
 # Install dependencies
