@@ -146,6 +146,6 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ## 📬 Contact
 
-**Samiksha Kalra** — [GitHub](https://github.com/samikshakalra02)
+**Shivanshu Pandey** — [GitHub](https://github.com/shivanshu23625)
 
 Project Link: [https://github.com/samikshakalra02/PHC-Smart-Manager](https://github.com/samikshakalra02/PHC-Smart-Manager)
